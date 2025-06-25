@@ -1,2 +1,3 @@
-# ScreeningTest-problems
-Tandemloop Round-1 Screening test 
+## Project name: Saketh Surya Dontukurti
+
+### Coding language used: Python
